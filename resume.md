@@ -1,3 +1,3 @@
 Matej Macula
 GJH '24
-Northeastern '28
+CS @ Northeastern '28
