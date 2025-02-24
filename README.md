@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**BohMatej/BohMatej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Matej Macula. 
+I'm a Computer Science student passionate about software development and problem solving. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔭 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MHDle - A public transport route guessing game inspired by Wordle and Subwaydle
+- Various university projects and assignments
+
+## 🌱 Skills & Technologies
+
+- Languages: Python, SQL, HTML/CSS, JavaScript
+- Frameworks: Flask
+- Tools: Git, VS Code
+- Databases: SQLite
+
+## 📫 Connect With Me
+
+- LinkedIn: Matej Macula
+- Email: macula.m@northeastern.edu
+- Instagram: @matejmacula
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BohMatej&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
