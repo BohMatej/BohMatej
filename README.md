@@ -21,8 +21,4 @@ I'm a Computer Science student passionate about software development and problem
 - Email: macula.m@northeastern.edu
 - Instagram: @matejmacula
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BohMatej&show_icons=true&theme=radical)
-
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
